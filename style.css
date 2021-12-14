@@ -1,0 +1,28 @@
+body{
+    background-image: url("https://wi.wallpapertip.com/wsimgs/197-1975763_aesthetic-background-design-pastel.jpg" );
+    padding-left:400px;
+    padding-right: 400px;
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+.container{
+    border-radius: 10px;
+    background-color:rgb(96, 173, 170);
+    height: 320px;
+    text-align: center;
+}
+form{
+    padding-top: 10px;
+}
+input{
+    padding: 10px;
+}
+button{
+    padding: 10px;
+}
+a{
+    padding-left: 25px;
+}
+span{
+    color: white;
+}
